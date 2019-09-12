@@ -1,0 +1,8 @@
+.game-grid{
+  width: 85vh;
+  height: 85vh;
+  background-color: darkgray;
+  display: grid;
+  grid-template-columns:  10% 10% 10% 10% 10%  10% 10% 10% 10% 10%;
+  grid-template-rows: 10% 10% 10% 10% 10%  10% 10% 10% 10% 10%;
+}
